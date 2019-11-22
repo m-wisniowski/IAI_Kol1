@@ -1,4 +1,4 @@
-# Technologie aplikacji internetowych - Kolokwium I
+# Informatyka Aplikacji Internetu - Kolokwium I
 
 ## Zadanie 1
 
